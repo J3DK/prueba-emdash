@@ -27,4 +27,10 @@
 			"binding": "LOADER",
 		},
 	],
+	"kv_namespaces": [
+	  {
+	    "binding": "prueba-emdash-session",          // ← el nombre que emDash espera
+	    "id": "05a11c41f9444dc9883e3ac1555ef212"
+	  }
+	],
 }
